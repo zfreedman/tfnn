@@ -3,3 +3,6 @@ FULL-TENSORFLOW-NOTES-AND-DATA.zip
 
 #zip contents#
 FULL-TENSORFLOW-NOTES-AND-DATA/
+
+#image data#
+code/cnn/MNIST_data/
