@@ -6,3 +6,6 @@ FULL-TENSORFLOW-NOTES-AND-DATA/
 
 #image data#
 code/cnn/MNIST_data/
+
+#cnn datasets#
+code/my_datasets/
